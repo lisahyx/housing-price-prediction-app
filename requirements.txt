@@ -4,4 +4,5 @@ numpy
 pandas
 XGBoost
 shap
+matplotlib
 joblib
